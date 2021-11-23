@@ -1,2 +1,2 @@
 Er was een een quizmaster groep die nog een naam moest bedenken. Zij waren drie uur bezig met github.
-En het is nu een beetje gelukt.  
+En het is nu een beetje gelukt. Pas op de vierde commit ging het nog een beetje beter. 
