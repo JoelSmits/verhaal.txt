@@ -2,3 +2,4 @@ The Book of Quizmaster
 
 Er was een quizmaster groep die nog een naam moest bedenken, Fatal Exception was één van de naamopties. Zij waren drie uur bezig met GitHub.
 En het is nu een beetje gelukt. Pas op de vierde commit ging het nog een beetje beter. Uiteindelijk is het Bianca ook gelukt, hoera! 
+En nu is er ook nog een nieuwe zin, wat een feest!
